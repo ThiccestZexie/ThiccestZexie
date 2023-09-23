@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ThiccestZexie&theme=highcontrast)](https://git.io/streak-stats)
+|------------------
+|
+||[![GitHub Streak](https://streak-stats.demolab.com/?user=ThiccestZexie&theme=highcontrast)](https://git.io/streak-stats)| Second Header |
+| ------------- |                                                                                                           ------------- |
+| Content Cell  |                                                                                                           Content Cell  |
+| Content Cell  |                                                                                                           Content Cell  |
+
 
 <!--
 **ThiccestZexie/ThiccestZexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
