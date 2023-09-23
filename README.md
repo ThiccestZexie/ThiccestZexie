@@ -1,13 +1,9 @@
-### Hi there 👋
-
-|------------------
-|
-||[![GitHub Streak](https://streak-stats.demolab.com/?user=ThiccestZexie&theme=highcontrast)](https://git.io/streak-stats)| Second Header |
-| ------------- |                                                                                                           ------------- |
-| Content Cell  |                                                                                                           Content Cell  |
-| Content Cell  |                                                                                                           Content Cell  |
+### Hi there!!
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ThiccestZexie&theme=highcontrast)](https://git.io/streak-stats)
+
+- ⚡ Fun fact: I have no idea what I want to do. 
 <!--
 **ThiccestZexie/ThiccestZexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,5 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
