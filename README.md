@@ -6,4 +6,4 @@
 - 💬 Ask me about **anything...**
 >
 
-[![GitHub Streak](https://streak-stats.demolab.com/?ThiccestZexie=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThiccestZexie&theme=highcontrast)](https://git.io/streak-stats)
