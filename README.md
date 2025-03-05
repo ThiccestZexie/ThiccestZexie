@@ -6,4 +6,4 @@
 - 💬 Ask me about **anything...**
 >
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thiccestzexie&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?ThiccestZexie=DenverCoder1)](https://git.io/streak-stats)
